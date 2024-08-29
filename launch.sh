@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # ComfyUI-Installer, launcher script.
 
 args=$@ # User passed command line args
